@@ -7,12 +7,11 @@
 ## RCOMSII
 
 ### Soluciones Tecnológicas Integrales
-**Desarrollo de Software | Soporte Técnico y Reparaciones | Capacitación a la Medida**
+| TYAKXA | RCOMSII | LCT| NEGOCIOLOCALMX |
+| :---: | :---: | :---: | :---: |
+| Desarrollo de Software | Soporte Técnico, Comercializacion y Reparaciones | Capacitación a la Medida | Marketing Digital |
 
-#### Marca Complementaria: NegocioLocalMX
-*Desarrollo Web y Marketing Digital*
 
----
 
 ### Documento Confidencial
 
@@ -23,15 +22,15 @@
 **Versión:** 1.0
 
 ---
-
 </div>
+
 
 ## Información de Contacto
 
 **Dirección:**  
-Av. León 101-A 
-Jardines del Moral 
-Leon, Guanajuato, 37160 
+Plan de San Luis 101,
+Conjunto Estrella, 37266
+León de los Aldama, Gto. 
 Mexico
 
 **Teléfono:**  
@@ -43,6 +42,7 @@ contacto@rcomsii.com
 **Sitio Web:**  
 www.rcomsii.com  
 www.negociolocalmx.com
+www.tyakxa.com
 
 ---
 

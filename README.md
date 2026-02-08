@@ -40,36 +40,60 @@ Presenta el calendario de actividades y las etapas clave para poner en marcha el
 Contiene documentos de apoyo como currículos, declaraciones fiscales, contratos, cartas de intención, estudios de mercado y cualquier información adicional relevante
 
 ## Estructura de archivos
-/README.md                              # Resumen general del proyecto y cómo navegar el repositorio.
+```
 /
-/modelo-negocio/                        # Información sobre qué vendes, a quién y por qué tú.
-    modelo-general.md                   # Visión general del modelo de negocio.
-    desarrollo.md                       # Detalles sobre el servicio de desarrollo a medida (BBB, IA, etc.).
-    soporte.md                          # Descripción del giro de soporte, reparaciones y garantías.
-    capacitacion.md                     # Documentación del giro de capacitación a la medida.
-    diferenciadores.md                  # Resumen de los factores que te diferencian por cada giro.
-/estrategia/                            # Estrategia de crecimiento y planificación.
-    fases.md                            # Estrategia de crecimiento por fases.
-    internacional.md                    # Visión internacional e I18n desde el diseño inicial.
-    inhouse-vs-tercerizar.md            # Decisiones clave sobre qué procesos mantener y qué tercerizar.
-/alianzas/                              # Alianzas y colaboraciones externas.
-    alianzas-escuelas.md                # Detalles de alianzas con CBTIS, universidades y centros educativos.
-    alianzas-marcas.md                  # Plan para obtener autorizaciones de marcas (Dell, Lenovo, HP, etc.).
-/finanzas/                              # Datos financieros y fuentes de capital.
-    financiamiento.md                   # Fuentes de financiamiento (préstamos al 8,84 %, JCF, etc.).
-    proyecciones.md                     # Proyecciones financieras y análisis de rentabilidad.
-/operaciones/                           # Procedimientos operativos y manuales internos.
-    manual-desarrollo.md                # Protocolos de desarrollo y pruebas de software.
-    manual-soporte.md                   # Procedimientos de soporte técnico y control de piezas.
-    manual-capacitacion.md              # Estándares para impartir capacitación a la medida.
-/expansion/                             # Planes de expansión y franquicias.
-    expansion-regional.md               # Plan para crecer en ciudades cercanas (Silao, Irapuato, etc.).
-    expansion-nacional.md               # Estrategia para expandirse a Guadalajara, Monterrey, CDMX, etc.
-    franquicias.md                      # Lineamientos para ofrecer franquicias del giro de soporte.
-/ISO/                                   # Cumplimiento de normativas y certificaciones.
-    iso27001.md                         # Plan para certificarse en ISO 27001 u otras normas relevantes.
-/repositorio/                           # Directrices sobre el uso de GitHub y gestión de código.
-    github.md                           # Guía de buenas prácticas, estructura de ramas y control de versiones.
+├── README.md                           # Resumen general del proyecto y cómo navegar el repositorio.
+├── INDEX.md                            # Portada del plan de negocios.
+│
+├── modelo-negocio/                     # Información sobre qué vendes, a quién y por qué tú.
+│   ├── modelo-general.md               # Visión general del modelo de negocio.
+│   ├── desarrollo.md                   # Detalles sobre el servicio de desarrollo a medida (BBB, IA, etc.).
+│   ├── soporte.md                      # Descripción del giro de soporte, reparaciones y garantías.
+│   ├── capacitacion.md                 # Documentación del giro de capacitación a la medida.
+│   └── diferenciadores.md              # Resumen de los factores que te diferencian por cada giro.
+│
+├── estrategia/                         # Estrategia de crecimiento y planificación.
+│   ├── fases.md                        # Estrategia de crecimiento por fases.
+│   ├── internacional.md                # Visión internacional e I18n desde el diseño inicial.
+│   └── inhouse-vs-tercerizar.md        # Decisiones clave sobre qué procesos mantener y qué tercerizar.
+│
+├── alianzas/                           # Alianzas y colaboraciones externas.
+│   ├── alianzas-escuelas.md            # Detalles de alianzas con CBTIS, universidades y centros educativos.
+│   └── alianzas-marcas.md              # Plan para obtener autorizaciones de marcas (Dell, Lenovo, HP, etc.).
+│
+├── finanzas/                           # Datos financieros y fuentes de capital.
+│   ├── financiamiento.md               # Fuentes de financiamiento (préstamos al 8,84 %, JCF, etc.).
+│   └── proyecciones.md                 # Proyecciones financieras y análisis de rentabilidad.
+│
+├── operaciones/                        # Procedimientos operativos y manuales internos.
+│   ├── manual-desarrollo.md            # Protocolos de desarrollo y pruebas de software.
+│   ├── manual-soporte.md               # Procedimientos de soporte técnico y control de piezas.
+│   └── manual-capacitacion.md          # Estándares para impartir capacitación a la medida.
+│
+├── expansion/                          # Planes de expansión y franquicias.
+│   ├── expansion-regional.md           # Plan para crecer en ciudades cercanas (Silao, Irapuato, etc.).
+│   ├── expansion-nacional.md           # Estrategia para expandirse a Guadalajara, Monterrey, CDMX, etc.
+│   └── franquicias.md                  # Lineamientos para ofrecer franquicias del giro de soporte.
+│
+├── Personal/                           # Estructura de recursos humanos.
+│   ├── personal.md                     # Listado detallado de personal requerido, roles y nómina.
+│   └── organigrama.md                  # Organigrama organizacional con diagrama Mermaid.
+│
+├── ISO/                                # Cumplimiento de normativas y certificaciones.
+│   └── iso27001.md                     # Plan para certificarse en ISO 27001 u otras normas relevantes.
+│
+├── marketing/                          # Estrategias de marketing y comercialización.
+│   └── (vacío - pendiente de documentar)
+│
+├── ventas/                             # Estrategias y procesos de ventas.
+│   └── (vacío - pendiente de documentar)
+│
+├── otras ideas/                        # Ideas adicionales y documentación complementaria.
+│   └── comercial.md                    # Estrategias comerciales adicionales.
+│
+└── repositorio/                        # Directrices sobre el uso de GitHub y gestión de código.
+    └── github.md                       # Guía de buenas prácticas, estructura de ramas y control de versiones.
+```
 
 # PROMPT INICIAL
 Responde en español, eres un Consultor / Asesor en Estrategia de Negocios Tecnológicos Nacionales e Internacionales(Business & Tech Advisor), debes ayudarme a crear:
