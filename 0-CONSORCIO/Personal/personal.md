@@ -21,7 +21,7 @@
 | 15 | 1 | TYAKXA (Desarrollo) | 1 | UI | Diseño de interfaces | JCF | 1 | --- |
 | 16 | 1 | TYAKXA (Desarrollo) | 1 | cyberseguridad | Monitoreo de servidores, respaldos y contencion de incidentes | JCF | 1 | --- |
 | 17 | 1 | TYAKXA (Desarrollo) | 1 | Validacion | Validacion de tipos de dato | JCF | 1 | --- |
-| 18 | 1 | TYAKXA (Desarrollo) | 1 | Tester | Pruebas de funcionalidad, seguridad e integracion | JCF | 1 | --- |
+| 18 | 1 | TYAKXA (Desarrollo) y NegocioLocalMx (Diseño Web) | 1 | Tester | Pruebas de funcionalidad, seguridad e integracion | JCF | 1 | --- |
 | 19 | 1 | Capacitacion | 2 | Asesor | Se revisar segun requerimiento | JCF | 1 | --- |
 | 20 | 1 | General | 1 | Promotor | Promotor de Ventas de los 5 giros del negocio | JCF | 1 | --- |
 | 21 | 1 | NegocioLocalMX(Marketing Digital) | 1 | Marketing | Arquitectore de estrategia de marketing e imagen  | JCF | 1 | --- |
