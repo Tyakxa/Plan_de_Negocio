@@ -1,6 +1,7 @@
 # PERSONAL REQUERIDO 
+### Las personas se refieren al personal que interviene en la produccion con su mano de obra y conocimientos
 
-|  | CANT | AREA | PRIORIDAD/FASE | ROL | DESCRIPCION | NOMBRE | REPORTA A | SUELDO MENSUAL|
+|  | CANT | AREA | PRIORIDAD/FASE | ROL | DESCRIPCION | NOMBRE | REPORTA A | SUELDO MENSUAL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  | $126,068.00 |
 | 1 | 1 | General | 1 | Director General | Direccion y administrador general | Tanya Rojas | --- | $35,358.00 |
@@ -22,7 +23,11 @@
 | 17 | 1 | TYAKXA (Desarrollo) | 1 | Validacion | Validacion de tipos de dato | JCF | 1 | --- |
 | 18 | 1 | TYAKXA (Desarrollo) | 1 | Tester | Pruebas de funcionalidad, seguridad e integracion | JCF | 1 | --- |
 | 19 | 1 | Capacitacion | 2 | Asesor | Se revisar segun requerimiento | JCF | 1 | --- |
-
+| 20 | 1 | General | 1 | Promotor | Promotor de Ventas de los 5 giros del negocio | JCF | 1 | --- |
+| 21 | 1 | NegocioLocalMX(Marketing Digital) | 1 | Marketing | Arquitectore de estrategia de marketing e imagen  | JCF | 1 | --- |
+| 22 | 1 | NegocioLocalMX(Marketing Digital) | 1 | Desarrollador web | Desarrollador digital | JCF | 1 | --- |
+| 23 | 1 | NegocioLocalMX(Marketing Digital) | 1 | Branding | Encargado de Monitorear/Publicar en RRSS propias y clientes | JCF | 1 | --- |
+| 24 | 1 | General | 1 | Cobrador | Encargado de caja y/o recepcion de pagos | JCF | 1 | --- |
 ---
 
 ## ORGANIGRAMA ORGANIZACIONAL
