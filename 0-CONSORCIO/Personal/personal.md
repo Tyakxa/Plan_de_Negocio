@@ -24,9 +24,9 @@
 | 18 | 1 | TYAKXA (Desarrollo) y NegocioLocalMx (Diseño Web) | 1 | Tester | Pruebas de funcionalidad, seguridad e integracion | JCF | 1 | --- |
 | 19 | 1 | Capacitacion | 2 | Asesor | Se revisar segun requerimiento | JCF | 1 | --- |
 | 20 | 1 | General | 1 | Promotor | Promotor de Ventas de los 5 giros del negocio | JCF | 1 | --- |
-| 21 | 1 | NegocioLocalMX(Marketing Digital) | 1 | Marketing | Arquitectore de estrategia de marketing e imagen  | JCF | 1 | --- |
-| 22 | 1 | NegocioLocalMX(Marketing Digital) | 1 | Desarrollador web | Desarrollador digital | JCF | 1 | --- |
-| 23 | 1 | NegocioLocalMX(Marketing Digital) | 1 | Branding | Encargado de Monitorear/Publicar en RRSS propias y clientes | JCF | 1 | --- |
+| 21 | 1 | NegocioLocalMX(Marketing Digital) | 1 | Marketing | Arquitectore de estrategia de marketing e imagen  | JCF | 2 | --- |
+| 22 | 1 | NegocioLocalMX(Marketing Digital) | 1 | Desarrollador web | Desarrollador digital | JCF | 2 | --- |
+| 23 | 1 | NegocioLocalMX(Marketing Digital) | 1 | Branding | Encargado de Monitorear/Publicar en RRSS propias y clientes | JCF | 2 | --- |
 | 24 | 1 | General | 1 | Cobrador | Encargado de caja y/o recepcion de pagos | JCF | 1 | --- |
 | 25 | 1 | LCT | 2 | Asesor | Se revisar segun requerimiento | JCF | 1 | --- |
 
