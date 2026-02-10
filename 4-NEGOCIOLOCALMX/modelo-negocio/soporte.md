@@ -1,2 +1,0 @@
-# Soporte, Reparaciones y Garantías
-

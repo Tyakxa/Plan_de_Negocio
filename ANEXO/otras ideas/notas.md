@@ -14,4 +14,6 @@ Abogados
 
 https://developer.clip.mx/
 
-revisar el minimo por cada negocio $22*30=660 + (660/4) = 825 * 4 = $3,300
+revisar el minimo de marketing digital por cada negocio $22*30=660 + (660/4) = 825 * 4 = $3,300
+
+

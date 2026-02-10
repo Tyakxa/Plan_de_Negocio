@@ -1,2 +1,0 @@
-# Capacitación a la Medida
-

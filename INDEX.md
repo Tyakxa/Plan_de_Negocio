@@ -1,16 +1,16 @@
-# PLAN DE NEGOCIO
+#### PLAN DE NEGOCIO
 
----
-
-<div align="center">
-
-## RCOMSII
+![Alt text](./ANEXO/imgs/proempleo.png)
+![Alt text](./ANEXO/imgs/torre%20digital%205.png)
+<center>
+TORRE DIGITAL
+</center>
 
 ### Soluciones Tecnológicas Integrales
-| TYAKXA | RCOMSII | LCT| NEGOCIOLOCALMX |
+| FASE 1 | FASE 1 | FASE 2 | FASE 2 |
 | :---: | :---: | :---: | :---: |
-| Desarrollo de Software | Soporte Técnico, Comercializacion y Reparaciones | Capacitación a la Medida | Marketing Digital |
-
+| TYAKXA | NEGOCIOLOCALMX | RCOMSII | LCT |
+| Desarrollo de Software | Capacitación a la Medida | Soporte Técnico, Comercializacion y Reparaciones | Marketing Digital |
 
 
 ### Documento Confidencial
@@ -22,14 +22,13 @@
 **Versión:** 1.0
 
 ---
-</div>
+
 
 
 ## Información de Contacto
 
 **Dirección:**  
-Plan de San Luis 101,
-Conjunto Estrella, 37266
+POR DEFINIR
 León de los Aldama, Gto. 
 Mexico
 
@@ -37,13 +36,14 @@ Mexico
 +52 (477) 411-7910
 
 **Correo Electrónico:**  
-contacto@rcomsii.com
+contacto@torredigital.mx
 
-**Sitio Web:**  
-www.rcomsii.com  
-www.negociolocalmx.com
-www.tyakxa.com
-
+**Sitios Web:**  
+- www.torredigital.mx
+- www.negociolocalmx.com
+- www.tyakxa.com
+- www.rcomsii.com 
+- www.lct.com.mx
 ---
 
 ## Responsable del Plan
@@ -55,7 +55,7 @@ MCI. ISC. Tanya Montserrat Rojas González
 Fundadora / Directora General
 
 **Contacto:**  
-contacto@rcomsii.com
+tanya.rojas@torredigital.mx
 
 ---
 
@@ -68,7 +68,7 @@ contacto@rcomsii.com
 
 ---
 
-**© 2026 RCOMSII. Todos los derechos reservados.**
+**© 2026 TORRE DIGITAL MX. Todos los derechos reservados.**
 
 </div>
 
@@ -77,23 +77,23 @@ contacto@rcomsii.com
 ## Resumen del Modelo de Negocio
 
 **Giros Principales:**
-- 🖥️ **Desarrollo de Software a Medida** (Bueno, Bonito y Barato con IA, I18n, JWT, CI/CD automatizado)
-  - *Marca complementaria:* NegocioLocalMX (desarrollo web y marketing digital)
-- 🔧 **Soporte Técnico y Reparaciones** (garantías, mantenimiento, centros autorizados franquiciables)
-- 📚 **Capacitación Tecnológica a la Medida** (contenido personalizado, horarios flexibles, in-situ o en instalaciones)
+- 🖥️ **Desarrollo de Software a Medida** TYAKXA - (Bueno, Bonito y Barato con IA, I18n, JWT, CI/CD automatizado)
+- 🖥️ **Marca complementaria:** NegocioLocalMX - (desarrollo web y marketing digital)
+- 🔧 **Soporte Técnico y Reparaciones** RCOMSII - (garantías, mantenimiento, centros autorizados franquiciables)
+- 📚 **Capacitación Tecnológica a la Medida** LCT - (contenido personalizado, horarios flexibles, in-situ o en instalaciones)
 
 **Ubicación y Mercado:**
 - **Sede Principal:** León, Guanajuato, México
 - **Mercado Local:** Empresas y organizaciones en León y zona metropolitana
 - **Expansión Regional:** Silao, Irapuato, San Francisco del Rincón, San Felipe
 - **Expansión Nacional:** Guadalajara, Monterrey, Ciudad de México
-- **Alianzas Educativas:** CBTIS, universidades tecnológicas
+- **Alianzas Educativas:** CBTIS, universidades tecnológicas, AMMJE, SDE
 - **Franquicias:** Modelo franquiciable para giro de soporte técnico
 
 **Diferenciadores Clave:**
 
 *Desarrollo:*
-- Modelo BBB (Bueno, Bonito, Barato) con desarrollo automatizado basado en IA
+- Modelo de desarrollo automatizado basado en IA
 - Seguridad y mejores prácticas integradas (I18n, JWT, CI/CD, error catching)
 - Equipo eficiente: testers y diseñadores UI/UX (receta secreta de scripts)
 - Certificación ISO en seguridad de la información
@@ -113,7 +113,7 @@ contacto@rcomsii.com
 - No capacitación genérica, sino soluciones específicas
 
 **Estructura Operativa:**
-- Tres giros con manuales de marca independientes en mismo recinto
+- 4 giros con manuales de marca independientes en mismo recinto
 - 20 personas del programa Jóvenes Construyendo el Futuro
 - Colaboración con contadores, ingenieros de producción y administración (comisiones)
 - Alianza estratégica con agencia Creatif para marketing
